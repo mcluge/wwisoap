@@ -1,0 +1,17 @@
+{
+    "name": "wwi/wwisoap",
+    "version": "1.0.0",
+    "keywords": ["soap"],
+	"homepage": "https://github.com/mcluge/wwisoap",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Michael Pearson"
+		}
+	],
+    "autoload": {
+        "psr-0": {
+            "WWISoap\\": "lib/"
+        }
+    }
+}
